@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning Rust & React.
 - 💞️ I’m looking to collaborate with kind people.
 - 📫 How to reach me, 5u4ccggbr@mozmail.com
+
+![Borer-Borer](https://github-readme-stats.vercel.app/api/top-langs?username=Borer-Borer&show_icons=true&count_private=true&theme=gotham)
