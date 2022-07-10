@@ -5,9 +5,6 @@
 - 💞️ I’m looking to collaborate with kind people.
 - 📫 How to reach me, 5u4ccggbr@mozmail.com
 
-<!-- [![januborer](https://github-readme-stats.vercel.app/api?username=januborer)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 #### Technology stack
 [![Rust](https://img.shields.io/badge/CS-Rust-red)](https://www.rust-lang.org)
 
@@ -28,3 +25,4 @@
 
 #### Contribution
 ![januborer](https://github-readme-stats.vercel.app/api/top-langs?username=januborer&show_icons=true&count_private=true&theme=gotham)
+[![januborer](https://github-readme-stats.vercel.app/api?username=januborer)](https://github.com/anuraghazra/github-readme-stats)
