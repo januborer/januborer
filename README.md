@@ -17,7 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/frontend-JavaScript-%2337adff)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/frontend-TypeScript-%2337adff)](https://www.typescriptlang.org/)
 [![uniapp](https://img.shields.io/badge/frontend-uniapp-%2337adff)](https://uniapp.dcloud.io/)
-[![WASM](https://img.shields.io/badge/CS-WASM-red)](https://webassembly.org/)
+[![WASM](https://img.shields.io/badge/frontend-WASM-%2337adff)](https://webassembly.org/)
 
 
 [![php](https://img.shields.io/badge/backend-php-yellogreen)](https://php.net)
