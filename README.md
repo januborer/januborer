@@ -10,3 +10,5 @@
 
 ## Technology stack
 ![vue](https://img.shields.io/badge/frontend-vue-orange)
+![vue](https://img.shields.io/badge/frontend-vue-orange)
+[![Go doc](https://img.shields.io/badge/go.dev-reference-brightgreen?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/yezihack/e)
