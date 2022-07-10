@@ -25,4 +25,4 @@
 
 #### Contribution
 ![januborer](https://github-readme-stats.vercel.app/api/top-langs?username=januborer&show_icons=true&count_private=true&theme=gotham)
-[![januborer](https://github-readme-stats.vercel.app/api?username=januborer)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![januborer](https://github-readme-stats.vercel.app/api?username=januborer)](https://github.com/anuraghazra/github-readme-stats) -->
