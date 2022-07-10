@@ -8,7 +8,7 @@
 
 ![januborer](https://github-readme-stats.vercel.app/api/top-langs?username=januborer&show_icons=true&count_private=true&theme=gotham)
 
-## Technology stack
+#### Technology stack
 [![react](https://img.shields.io/badge/frontend-react-%2337adff)](https://reactjs.org/)
 [![react-native](https://img.shields.io/badge/frontend-react--native-%2337adff)](https://reactnative.dev/)
 [![tauri](https://img.shields.io/badge/frontend-tauri-%2337adff)](https://tauri.app/)
@@ -19,8 +19,8 @@
 [![uniapp](https://img.shields.io/badge/frontend-uniapp-%2337adff)](https://uniapp.dcloud.io/)
 
 
-[![php](https://img.shields.io/badge/backend-php-%2337adff)](https://php.net)
-[![laravel](https://img.shields.io/badge/backend-laravel-%2337adff)](https://laravel.com)
+[![php](https://img.shields.io/badge/backend-php-yellogreen)](https://php.net)
+[![laravel](https://img.shields.io/badge/backend-laravel-yellogreen)](https://laravel.com)
 
 
 [![Rust](https://img.shields.io/badge/CS-Rust-red)](https://www.rust-lang.org)
