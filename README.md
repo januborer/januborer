@@ -9,6 +9,5 @@
 ![januborer](https://github-readme-stats.vercel.app/api/top-langs?username=januborer&show_icons=true&count_private=true&theme=gotham)
 
 ## Technology stack
-![vue](https://img.shields.io/badge/frontend-vue-orange)
-![vue](https://img.shields.io/badge/frontend-vue-orange)
-[![Go doc](https://img.shields.io/badge/go.dev-reference-brightgreen?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/yezihack/e)
+[![react](https://img.shields.io/badge/frontend-react-%2337adff)](https://reactjs.org/)
+[![vue](https://img.shields.io/badge/frontend-vue-%2337adff)](https://vuejs.org/)
