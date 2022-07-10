@@ -32,6 +32,8 @@
 [![neovim](https://img.shields.io/badge/tool-neovim-orange)](https://neovim.io)
 [![arch](https://img.shields.io/badge/tool-arch-orange)](https://archlinux.org)
 [![blackarch](https://img.shields.io/badge/tool-blackarch-orange)](https://blackarch.org)
+[![git](https://img.shields.io/badge/tool-git-orange)](https://git-scm.com/)
+[![shell](https://img.shields.io/badge/tool-shell-orange)](https://www.gnu.org/software/bash/)
 
 #### Contribution
 ![januborer](https://github-readme-stats.vercel.app/api/top-langs?username=januborer&show_icons=true&count_private=true&theme=gotham)
