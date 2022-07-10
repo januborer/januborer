@@ -7,7 +7,6 @@
 
 <!-- [![januborer](https://github-readme-stats.vercel.app/api?username=januborer)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ![januborer](https://github-readme-stats.vercel.app/api/top-langs?username=januborer&show_icons=true&count_private=true&theme=gotham) -->
 
 #### Technology stack
 [![Rust](https://img.shields.io/badge/CS-Rust-red)](https://www.rust-lang.org)
@@ -26,3 +25,6 @@
 
 [![php](https://img.shields.io/badge/backend-php-yellogreen)](https://php.net)
 [![laravel](https://img.shields.io/badge/backend-laravel-yellogreen)](https://laravel.com)
+
+#### Contribution
+![januborer](https://github-readme-stats.vercel.app/api/top-langs?username=januborer&show_icons=true&count_private=true&theme=gotham)
