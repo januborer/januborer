@@ -19,4 +19,8 @@
 [![uniapp](https://img.shields.io/badge/frontend-uniapp-%2337adff)](https://uniapp.dcloud.io/)
 
 
+[![php](https://img.shields.io/badge/backend-php-%2337adff)](https://php.net)
+[![laravel](https://img.shields.io/badge/backend-laravel-%2337adff)](https://laravel.com)
+
+
 [![Rust](https://img.shields.io/badge/CS-Rust-red)](https://www.rust-lang.org)
