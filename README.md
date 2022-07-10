@@ -23,6 +23,16 @@
 [![php](https://img.shields.io/badge/backend-php-yellogreen)](https://php.net)
 [![laravel](https://img.shields.io/badge/backend-laravel-yellogreen)](https://laravel.com)
 
+
+[![mysql](https://img.shields.io/badge/tool-mysql-orange)](https://www.mysql.com)
+[![postgresql](https://img.shields.io/badge/tool-postgresql-orange)](https://www.postgresql.org)
+[![redis](https://img.shields.io/badge/tool-redis-orange)](https://redis.io)
+[![docker](https://img.shields.io/badge/tool-docker-orange)](https://www.docker.com)
+[![k8s](https://img.shields.io/badge/tool-k8s-orange)](https://kubernetes.io)
+[![neovim](https://img.shields.io/badge/tool-neovim-orange)](https://neovim.io)
+[![arch](https://img.shields.io/badge/tool-arch-orange)](https://archlinux.org)
+[![blackarch](https://img.shields.io/badge/tool-blackarch-orange)](https://blackarch.org)
+
 #### Contribution
 ![januborer](https://github-readme-stats.vercel.app/api/top-langs?username=januborer&show_icons=true&count_private=true&theme=gotham)
 <!-- [![januborer](https://github-readme-stats.vercel.app/api?username=januborer)](https://github.com/anuraghazra/github-readme-stats) -->
