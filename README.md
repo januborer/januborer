@@ -9,4 +9,4 @@
 ![januborer](https://github-readme-stats.vercel.app/api/top-langs?username=januborer&show_icons=true&count_private=true&theme=gotham)
 
 ## Technology stack
- 
+![vue](https://img.shields.io/badge/frontend-vue-orange)
