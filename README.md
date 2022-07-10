@@ -10,4 +10,13 @@
 
 ## Technology stack
 [![react](https://img.shields.io/badge/frontend-react-%2337adff)](https://reactjs.org/)
+[![react-native](https://img.shields.io/badge/frontend-react--native-%2337adff)](https://reactnative.dev/)
+[![tauri](https://img.shields.io/badge/frontend-tauri-%2337adff)](https://tauri.app/)
 [![vue](https://img.shields.io/badge/frontend-vue-%2337adff)](https://vuejs.org/)
+[![HTML5](https://img.shields.io/badge/frontend-HTML5-%2337adff)](https://html.com/html5/)
+[![JavaScript](https://img.shields.io/badge/frontend-JavaScript-%2337adff)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/frontend-TypeScript-%2337adff)](https://www.typescriptlang.org/)
+[![uniapp](https://img.shields.io/badge/frontend-uniapp-%2337adff)](https://uniapp.dcloud.io/)
+
+
+[![Rust](https://img.shields.io/badge/CS-Rust-red)](https://www.rust-lang.org)
