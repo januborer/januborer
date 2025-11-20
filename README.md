@@ -3,12 +3,13 @@
 - 👀 I’m interested in thinking the rules under the hood. Have you ever heard about [阴阳](https://en.wikipedia.org/wiki/Yin_and_yang) ? That's it.
 - 🌱 I’m currently learning Rust & React.
 - 💞️ I’m looking to collaborate with kind people.
-<!-- - 📫 How to reach me, 5u4ccggbr@mozmail.com -->
+- 📫 How to reach me, gvj8nlqhz@mozmail.com
 
 #### Technology stack
 [![Rust](https://img.shields.io/badge/CS-Rust-red)](https://www.rust-lang.org)
 [![Data-Structure](https://img.shields.io/badge/CS-Data--Structure-red)](https://en.wikipedia.org/wiki/Data_structure)
 [![Algorithm](https://img.shields.io/badge/CS-Algorithm-red)](https://en.wikipedia.org/wiki/Algorithm)
+[![FreeBSD](https://img.shields.io/badge/CS-Algorithm-red)](https://en.wikipedia.org/wiki/Algorithm)
 
 
 <!-- [![react](https://img.shields.io/badge/frontend-react-%2337adff)](https://reactjs.org/) -->
