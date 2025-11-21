@@ -3,7 +3,7 @@
 - 👀 I’m interested in thinking the rules under the hood. Have you ever heard about [阴阳](https://en.wikipedia.org/wiki/Yin_and_yang) ? That's it.
 - 🌱 I’m currently learning Rust & React.
 - 💞️ I’m looking to collaborate with kind people.
-- 📫 How to reach me, gvj8nlqhz@mozmail.com
+- 📫 How to reach me, 2dovg8wem@mozmail.com
 
 #### Technology stack
 [![Rust](https://img.shields.io/badge/CS-Rust-red)](https://www.rust-lang.org)
