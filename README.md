@@ -1,14 +1,17 @@
 #### Intruduction
-- 👋 Hi, I'm @Borer!
+- 👋 Hi, I'm @borer!
 - 👀 I’m interested in thinking the rules under the hood. Have you ever heard about [阴阳](https://en.wikipedia.org/wiki/Yin_and_yang) ? That's it.
-- 🌱 I’m currently learning Rust & React.
+- 🌱 I’m currently learning Rust & Zig.
 - 💞️ I’m looking to collaborate with kind people.
 - 📫 How to reach me, 2dovg8wem@mozmail.com
 
 #### Technology stack
 [![Rust](https://img.shields.io/badge/CS-Rust-red)](https://www.rust-lang.org)
+[![Zig](https://img.shields.io/badge/CS-Rust-red)](https://ziglang.org)
+
 [![Data-Structure](https://img.shields.io/badge/CS-Data--Structure-red)](https://en.wikipedia.org/wiki/Data_structure)
 [![Algorithm](https://img.shields.io/badge/CS-Algorithm-red)](https://en.wikipedia.org/wiki/Algorithm)
+
 [![FreeBSD](https://img.shields.io/badge/CS-FreeBSD-red)](https://en.wikipedia.org/wiki/FreeBSD)
 
 
